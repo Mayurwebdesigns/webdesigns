@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sri Lakshmi Janardhan International School - About</title>
+  <meta name="description" content="Learn about Sri Lakshmi Janardhan International School, its history, vision, mission, and leadership in providing quality CBSE education in Udupi District.">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo-area">
+      <img src="assets/school-logo.png" alt="SLJ International School Logo" class="logo">
+      <div class="school-name">SRI LAKSHMI JANARDHAN INTERNATIONAL SCHOOL</div>
+      <div class="tagline">CBSE Affiliated School | Nandalike, Belman-576111</div>
+    </div>
+    <nav aria-label="Main navigation">
+      <button class="menu-toggle" aria-label="Toggle menu">☰</button>
+      <ul class="nav-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" aria-current="page" class="active">About</a></li>
+        <li><a href="admissions.html">Admissions</a></li>
+        <li><a href="academics.html">Academics</a></li>
+        <li><a href="facilities.html">Facilities</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="cbse.html">CBSE Mandatory Data</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="section" id="about">
+    <h2 class="center">About Us</h2>
+    <div class="narrow">
+      <div class="section-block">
+        <h3>History of SLJ International School</h3>
+        <p class="justified-text">In the early 2000s, Dr. P.K. Shetty, a visionary educationist, embarked on a trip to Belman, his ancestral land in Udupi district. During this visit, he met with influential and philanthropic businessmen in the region.</p>
+        <p class="justified-text">It was during these discussions that he learned of a tragic incident—a college-going student had lost his life in an accident while traveling by public transport to a distant school, as there were no quality educational institutions in the Belman region at that time.</p>
+        <p class="justified-text">Recognizing this critical gap in education, the local community urged Dr. P.K. Shetty to establish a school in Belman. With his extensive experience in the field of education, he was deeply moved by the request and saw an opportunity to make a lasting impact.</p>
+        <h4>Laying the Foundation (2004)</h4>
+        <p class="justified-text">Determined to bring quality education to rural students, Dr. P.K. Shetty used his own ancestral land and sought funding from philanthropists in Mumbai and Udupi. His vision materialized in June 2004, when he rented 10 commercial shops and started a pre-primary school—a humble yet groundbreaking step towards transforming education in Belman.</p>
+        <p class="justified-text">Under his exceptional leadership, the school quickly gained a reputation for academic excellence and holistic learning. Seeing the remarkable results, parents and community leaders requested him to expand the institution into a full-fledged CBSE school.</p>
+        <h4>Growth and Expansion</h4>
+        <p class="justified-text">With unwavering dedication and hard work, Dr. P.K. Shetty established a modern school campus near the existing Sri Lakshmi Janardhan Temple. The new facility saw immense success, catering to over 1,200 students annually and setting new standards for CBSE education in the region.</p>
+        <p class="justified-text">Over the years, SLJ International School has flourished into one of the top-performing CBSE schools in Udupi district. In recognition of his extraordinary contribution to education, Dr. P.K. Shetty was honoured with a prestigious National Award in Education Field.</p>
+        <h4>Continuing the Legacy</h4>
+        <p class="justified-text">Today, SLJ International School stands as a beacon of quality education, fostering academic excellence, cultural values, and all-round development. With continued support from philanthropists, we aim to carry forward Dr. P.K. Shetty’s legacy by building a modern digital infrastructure, integrating technology with traditional learning to shape the future of education in Belman.</p>
+      </div>
+      <div class="section-block">
+        <h3>About SLJ International School</h3>
+        <p class="justified-text">Sri Lakshmi Janardhan International School (SLJIS) is an Un-aided Linguistic Minority premier CBSE-affiliated institution dedicated to providing high-quality education in a nurturing and disciplined environment. Established to bridge the gap in educational opportunities, SLJIS has grown into a center of academic excellence, innovation, and holistic development.</p>
+        <p class="justified-text">SLJIS is managed by Little Angels Education Society (R), a charitable trust with 48+ years of educational and social service. A new dimension was added to the society's activities when a pre-primary school was started in Belman in 2003 by our Chairman, Dr. P.K. Shetty, a dynamic visionary.</p>
+        <p class="justified-text">This school was later expanded to include a Primary and Secondary section and became affiliated with the Central Board of Secondary Education, Delhi. Over the years, the school was renamed Sri Lakshmi Janardhan International School (SLJIS). Our institution stands as a beacon of learning, particularly focusing on empowering students with modern education while instilling strong ethical values.</p>
+        <p class="justified-text">We are proud to be a FIT INDIA SCHOOL and an ISO 9001:2015 Certified Institution ensuring global standards in education. Over the years, we have witnessed remarkable student achievements in academics, fine arts, sports, and extracurricular activities, shaping them into confident individuals ready to face the world.</p>
+        <p class="justified-text">At SLJIS, we believe that education is not just about acquiring knowledge but about developing strong character, leadership, and adaptability to meet the challenges of the future. With a dedicated team of educators and a well-structured curriculum, we continue our mission to make quality education accessible to all.</p>
+      </div>
+      <div class="section-block">
+        <h3>Our Vision</h3>
+        <p class="justified-text">The vision of SLJIS is to be world-class in school learning and innovation, driven by social sensitivity and cutting-edge teaching methodologies. With expert guidance, we aim to be among the best schools, delivering qualitative education and active learning to meet the evolving needs of industry and society.</p>
+      </div>
+      <div class="section-block">
+        <h3>Our Mission</h3>
+        <ul>
+          <li>To provide finest quality education that evolves with global educational changes.</li>
+          <li>To offer facilities that rank at par with the world’s best educational institutions.</li>
+          <li>To foster an environment for progressive thinking.</li>
+          <li>To set new qualitative heights with expert faculty and innovative ideas.</li>
+        </ul>
+      </div>
+      <div class="section-block">
+        <h3>Our Belief</h3>
+        <p class="justified-text">We believe education thrives when shared by diverse individuals with practical experience. Our faculty remains broad-minded, embracing global educational advancements. Innovation is key to progress, and our curriculum incorporates new areas of development to prepare students for modern challenges.</p>
+      </div>
+      <p class="download-links">
+        <a href="assets/prospectus.pdf" class="cta-button" aria-label="Download Prospectus" download>Download Prospectus</a>
+      </p>
+    </div>
+  </section>
+  <section class="section" id="messages">
+    <h2 class="center">Messages from Our Leadership</h2>
+    <div class="narrow">
+      <div class="message-card section-block">
+        <img src="assets/founder.jpg" alt="Dr. P.K. Shetty, Late Founder" class="message-photo">
+        <div class="message-content">
+          <h3>Message by Our Late Founder</h3>
+          <p class="justified-text"><em>Dr. P.K. Shetty (30-Jul-1946 to 26-Jul-2023)</em></p>
+          <p class="justified-text">The single most important gift we can bestow upon our youth is ‘Education’ and it is our greatest responsibility to do so. We consider it our bounden duty in Sri Lakshmi Janardhan International School to ensure that every pupil in our charge is educated to the fullest extent of its capability and is prepared academically, morally and socially to take its place in Society with its best prospect of success and fulfilment.</p>
+          <p class="justified-text">With the responsibility of every student to be educated to this standard the members of the staff of this School have a major job on their hands and I look upon it as my job to make sure that they have the facilities and the proper support and encouragement to do it.</p>
+          <p class="justified-text">As Roger Levin once said “Too often we give children answers to remember rather than problems to solve.” We believe that achievement in education establishments is not a percentage game and it is not to be measured only in terms of examination results, important as they are. The ultimate achievement is the certain knowledge that every single student given into our care has been given of our best efforts towards full developments as an adult and leaves us with good prospects for a fruitful life.</p>
+          <p class="justified-text">We at SLJIS desire that our students have, not only well-developed minds and bodies but well-developed hearts, for, ‘What does it profit a man if he gains the whole world but suffers the loss of his own soul?’ It is with this philosophy and this attitude that makes an earnest effort to inculcate the basic values of life and the right attitude among students so they internalize that to achieve ‘anyhow’ and ‘somehow’ is not right. Means are as important as the end.</p>
+          <p class="justified-text">I look forward to working with the whole staff to meet the challenges of this assignment and promise you my dedicated application to the tasks ahead.</p>
+          <a href="#" class="read-more" onclick="toggleReadMore('founder')">Read More</a>
+          <div id="founder-extra" class="extra-content" style="display: none;">
+            <p class="justified-text">Additional content for the Founder's message can go here if needed, expanding on his vision or legacy.</p>
+          </div>
+        </div>
+      </div>
+      <div class="message-card section-block">
+        <img src="assets/chairperson.jpg" alt="Mrs. Mohini P. Shetty, Chairperson" class="message-photo">
+        <div class="message-content">
+          <h3>Message from Our Chairperson</h3>
+          <p class="justified-text"><em>Mrs. Mohini P. Shetty, Chairperson</em></p>
+          <p class="justified-text">Education is not just about preparing for exams; it is about preparing for life."</p>
+          <p class="justified-text">It gives me immense pride and joy to witness the growth and evolution of the SLJ Group of Institutions — a collective that stands as a beacon of holistic, inclusive, and progressive education in our region.</p>
+          <p class="justified-text">At the heart of our mission lies a commitment to nurturing young minds not only academically but also socially, emotionally, and ethically. As Chairperson of three foundational education trusts — Little Angels, Rev. C.F. Andrews, and Mayur Education Societies — I view our institutions as more than just centers of learning; they are transformative spaces that shape confident individuals, responsible citizens, and future leaders.</p>
+          <p class="justified-text">The journey of SLJ International School, SLJ PU College, and our foundational schools in rural and semi-urban Karnataka is a testimony to what focused vision, tireless effort, and unwavering belief in the power of education can achieve. Our aim has always been to bridge the rural-urban divide in education by providing students from all backgrounds access to high-quality infrastructure, trained faculty, and modern learning tools — without compromising our deep-rooted Indian values.</p>
+          <p class="justified-text">We take pride in fostering a child-centric and activity-based curriculum that encourages inquiry, innovation, and expression. Whether it's through co-curricular activities like arts, sports, yoga, or through structured academic rigor, our students are empowered to think critically and act compassionately.</p>
+          <p class="justified-text">Behind every success story at SLJ is a team of dedicated educators, visionary leaders, and a community of supportive parents. Together, we strive to create environments where learning is joyful, discipline is natural, and excellence is a habit.</p>
+          <p class="justified-text">As we look toward the future, we remain committed to staying ahead of educational trends, embracing responsible technology, and nurturing an education system that is resilient, adaptable, and future-ready.</p>
+          <p class="justified-text">I invite you to be a part of our journey — as parents, educators, alumni, or well-wishers — and contribute to our mission of transforming lives through education.</p>
+          <a href="#" class="read-more" onclick="toggleReadMore('chairperson')">Read More</a>
+          <div id="chairperson-extra" class="extra-content" style="display: none;">
+            <p class="justified-text">Additional content for the Chairperson's message can go here, such as future plans or achievements.</p>
+          </div>
+        </div>
+      </div>
+      <div class="message-card section-block">
+        <img src="assets/ceo.jpg" alt="Mr. Mayurkumar Shetty, CEO" class="message-photo">
+        <div class="message-content">
+          <h3>Message from Our CEO</h3>
+          <p class="justified-text"><em>Mr. Mayurkumar Shetty, CEO and Trustee</em></p>
+          <p class="justified-text">As a dedicated educator, mentor, experienced parent, and friend, I want to inspire and motivate you to reach your maximum potential and overcome any obstacles that may come your way. I understand that many of you may come from rural backgrounds and may not have the same resources as those from urban areas, but please know that this does not limit your potential in any way.</p>
+          <p class="justified-text">Your education is the key to unlocking your aspirations and attaining success in any path you choose. No matter where you come from, you have the power to shape your future through hard work, dedication, and a love for learning.</p>
+          <p class="justified-text">I urge you to pursue contemporary education and acquire skills in cutting-edge fields such as AI, coding, programming, robotics, sports, and music as they are rapidly advancing and in high demand in today's society.</p>
+          <p class="justified-text">I urge you to embrace your curiosity, take advantage of every learning opportunity, ask questions, seek new experiences, and challenge yourself to think critically and creatively. These skills will serve you well in all aspects of your life and help you achieve your goals and make a positive impact on the world. So don't let your background limit you. Embrace the challenges of contemporary education and skills development and let your determination and hard work take you to new heights.</p>
+          <p class="justified-text">Remember, the sky is the limit. With determination, perseverance, and a strong work ethic, you can achieve anything you set your mind to.</p>
+          <a href="#" class="read-more" onclick="toggleReadMore('ceo')">Read More</a>
+          <div id="ceo-extra" class="extra-content" style="display: none;">
+            <p class="justified-text">Additional content for the CEO's message can include specific programs or initiatives.</p>
+          </div>
+        </div>
+      </div>
+      <div class="message-card section-block">
+        <img src="assets/principal.jpg" alt="Mr. Bhujanga P. Shetty, Principal" class="message-photo">
+        <div class="message-content">
+          <h3>Message from Our Principal</h3>
+          <p class="justified-text"><em>Mr. Bhujanga P. Shetty, Principal</em></p>
+          <p class="justified-text">Your child is a very special individual who needs a happy, secure and challenging environment in which to grow. A child’s natural curiosity to explore his/her world gives teachers the basis on which to build learning experiences that will provide a solid foundation for the early years of schooling. As the head of the institution SLJIS is ‘Good seed sown in a fertile ground’ that recognises the importance of these early years of schooling.</p>
+          <p class="justified-text">For parents, it is vital that their children receive an excellent start to schooling in a friendly, caring and family atmosphere.</p>
+          <p class="justified-text">Today, children in India are growing in a more challenging and demanding environment. The rate of change in every sphere is rapid with the enhanced knowledge exchange and development in the world of technology. Globalization demands a new dimension to our approach to education. We, thus, have to recognize the need for a globally relevant education.</p>
+          <p class="justified-text">Such an education would mean imparting skills that would develop mental agility in individuals to confidently interact and work in diverse environs or situations. The school curriculum is oriented such that students embody self-confidence and ‘out of the box’ thought process. In all our endeavours, the focus is to strengthen competencies needed to be autonomous, lifelong learners.</p>
+          <p class="justified-text">We make concerted efforts for a holistic development of the students who enter the school portals. A wide range of multi-dimensional activities are organized which go a long way in propelling a self-belief, confidence in decision making and problem solving along with chiseling of soft skills.</p>
+          <p class="justified-text">Our students move out after Schooling well equipped with the skills, mind sets and qualities that will hold them for success in the world of the future. SLJIS students are intelligent, resilient, creative, imaginative, disciplined, dedicated to life-long learning, respectful and ethical. They are the future leaders and role models of society.</p>
+          <a href="#" class="read-more" onclick="toggleReadMore('principal')">Read More</a>
+          <div id="principal-extra" class="extra-content" style="display: none;">
+            <p class="justified-text">Additional content for the Principal's message can highlight specific school programs or achievements.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer class="footer">
+    <p>Sri Lakshmi Janardhan International School, Nandalike, Belman, Udupi District, Karnataka<br>
+    Email: <a href="mailto:admin@sljinternationalschool.com">admin@sljinternationalschool.com</a> | Phone: <a href="tel:+918258274666">08258-274666</a>, <a href="tel:+919900555565">9900555565</a><br>
+    © 2025 Sri Lakshmi Janardhan International School. All rights reserved.</p>
+    <div class="social-links">
+      <a href="https://facebook.com/sljinternationalschool" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://twitter.com/sljintschool" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://instagram.com/sljinternationalschool" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+  <script>
+    function toggleReadMore(id) {
+      console.log("Toggling " + id); // Debug log
+      var extraContent = document.getElementById(id + '-extra');
+      if (extraContent.style.display === 'none') {
+        extraContent.style.display = 'block';
+      } else {
+        extraContent.style.display = 'none';
+      }
+    }
+  </script>
+</body>
+</html>
